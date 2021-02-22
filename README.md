@@ -1,2 +1,2 @@
 # curso-php
-Curso de PHP / MySQL na pŕaitca
+Curso de PHP / MySQL na prática
